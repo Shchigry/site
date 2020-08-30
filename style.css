@@ -5,8 +5,8 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-color: #e3e1e6;
+  background-image: url("img/head22.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -71,6 +71,7 @@ body {
 
 .intro {
   margin: 0 0 120px;
+  padding-top: 100px;
 }
 
 .subheading {
@@ -112,7 +113,7 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
-}
+  }
 
 .skill-css {
   background-image: url("img/icon-css.svg");
@@ -123,15 +124,15 @@ body {
   padding: 0;
   height: 14px;
   font-size: 0;
-  background-color: #ffffff;
-  border: 1px solid #86c3fa;
+  background-color: #161313;
+  border: 3px solid #3c4441;
   border-radius: 8px;
 }
 
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #65bfe2;
   border-radius: 6px;
 }
 
@@ -191,4 +192,7 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+figure {
+  margin-left: 300px;
 }
